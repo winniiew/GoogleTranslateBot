@@ -12,7 +12,7 @@ Run in the shell:
 
 `pip install discord`
 
-`pip install googletrans==3.1.0a0`
+`pip install googletrans==4.0.0-rc1`
 
 `pip install Flask`
 
