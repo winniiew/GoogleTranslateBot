@@ -34,7 +34,8 @@ The list of available languages within the `googletrans` library can be found he
 
 `hello -> 你好 `
 
-<img width="213" alt="help3" src="https://user-images.githubusercontent.com/86391366/172137518-00925100-57e6-418d-9825-59a6808a45d5.PNG">
+<img width="250" alt="help3" src="https://user-images.githubusercontent.com/86391366/172138356-58da0400-8255-4c44-8dc5-3702c0964bfe.PNG">
+
 
 
 
