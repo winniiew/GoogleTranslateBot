@@ -25,3 +25,16 @@ Uptime Robot:
 4. Change the monitoring interval to 5 minutes
 
 <img width="467" alt="help" src="https://user-images.githubusercontent.com/86391366/172134366-52674385-f150-4f1c-aa58-d6da24731c40.PNG">
+
+
+To do translations within the Discord server:
+The list of available languages within the `googletrans` library can be found here: https://py-googletrans.readthedocs.io/en/latest/
+
+`!t zh-tw hello`
+
+`hello -> 你好 `
+
+<img width="213" alt="help3" src="https://user-images.githubusercontent.com/86391366/172137518-00925100-57e6-418d-9825-59a6808a45d5.PNG">
+
+
+
