@@ -14,6 +14,8 @@ Run in the shell:
 
 `pip install googletrans==3.1.0a0`
 
+`pip install Flask`
+
 Then run `main.py`, this should generate a URL `https://googletranslatebot.winniiew.repl.co/` that can then be used in https://uptimerobot.com/ to host the Discord bot.
 
 
