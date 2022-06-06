@@ -10,7 +10,7 @@ client = discord.Client()
 
 # The token that allows client to run the script
 # token = ...
-token = "xxxxBot Tokenxxxx"
+token = "TOKEN"
 
 # Notify on console that the discord bot is ready
 @client.event
