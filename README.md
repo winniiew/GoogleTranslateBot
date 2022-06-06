@@ -4,6 +4,8 @@ Follow the instructions: https://discordpy.readthedocs.io/en/stable/discord.html
 
 Add `translate_discord.py` and `keep_alive.py` to a new repository on https://replit.com/
 
+Replace `TOKEN` with the Discord Bot token
+
 Replit:
 
 Run in the shell:
