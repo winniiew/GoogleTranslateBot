@@ -10,14 +10,14 @@ client = discord.Client()
 
 # The token that allows client to run the script
 # token = ...
-token = "TOKEN"
+token = "OTgzMjE5NzMyNzEyOTMxMzM5.GvgpnQ.1SzBHq8yz4LCMUEmDdmKWUNQImtQ2af7oy3zqg"
 
 # Notify on console that the discord bot is ready
 @client.event
 async def on_ready():
-    print("The bot is ready!")
-
-
+  await       client.change_presence(activity=discord.Game('Translating 🗣')) 
+  print("The bot is ready!")
+  
 # Responds to commands
 @client.event
 async def on_message(message):
