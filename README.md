@@ -23,7 +23,7 @@ Run the following in the bash shell:
 - Then run `main.py`, this should generate a URL `https://googletranslatebot.winniiew.repl.co/` that can then be used in [UptimeRobot](https://uptimerobot.com/) to host the Discord bot.
 
 <p align="center">
-<img width="667" alt="help2" src="https://user-images.githubusercontent.com/86391366/172135241-7c6a87ca-745d-4f71-b87c-f87895cdaf39.png">
+<img width="500" alt="help2" src="https://user-images.githubusercontent.com/86391366/172135241-7c6a87ca-745d-4f71-b87c-f87895cdaf39.png">
 <p>
 
 ### Uptime Robot
@@ -34,13 +34,13 @@ Run the following in the bash shell:
 4. Change the monitoring interval to 5 minutes
 
  <p align="center">
-<img width="667" alt="help" src="https://user-images.githubusercontent.com/86391366/172134366-52674385-f150-4f1c-aa58-d6da24731c40.PNG">
+<img width="500" alt="help" src="https://user-images.githubusercontent.com/86391366/172134366-52674385-f150-4f1c-aa58-d6da24731c40.PNG">
 <p>
   
 ## Invite Bot to join server
 https://discord.com/api/oauth2/authorize?client_id=983219732712931339&permissions=257698506816&scope=bot
 
-### Commands 
+## Commands 
 The list of available languages within the [**googletrans library**](https://py-googletrans.readthedocs.io/en/latest/)
 
 ```
